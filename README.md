@@ -28,3 +28,5 @@ Requires the google maps API js file:
 The markers array is formated as:
 
 	marker[i] = [latitude (float), longitude (float), title (when hovering), marker image];
+
+For a live demo: <http://mikepolatoglou.com/hud-markers>
