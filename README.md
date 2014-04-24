@@ -30,3 +30,5 @@ The markers array is formated as:
 	marker[i] = [latitude (float), longitude (float), title (when hovering), marker image];
 
 For a live demo: <http://mikepolatoglou.com/hud-markers>
+
+Marker images taken from: <http://mapicons.nicolasmollet.com/>
